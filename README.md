@@ -56,7 +56,6 @@ B.E, Computer Science &bull; Expected May 2029 &bull; Chennai, Tamil Nadu
 #### Personal Blog Website
 *Full-stack blogging platform with auth and post management*
 - Users can register, log in, and create, edit, and manage blog posts with session-based authentication and password hashing.
-- PostgreSQL for data management, EJS templates for a clean and responsive interface.
 - **Stack:** Node.js, Express.js, EJS, PostgreSQL
 
 </td>
