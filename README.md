@@ -3,7 +3,7 @@ Hi there ! **Janani B N** here
 
 **CS Undergrad · Full Stack Developer · Competitive Programmer**
 
-[Email](mailto:bnjanani258@gmail.com) &nbsp;&bull;&nbsp; [LinkedIn](https://linkedin.com/in/janani-b-n-72761537a) &nbsp;&bull;&nbsp; [Medium](https://medium.com/@bnjanani258) &nbsp;&bull;&nbsp; [Twitter](https://x.com/Janani0880) &nbsp;&bull;&nbsp; [Protfolio](https://janani-bn.github.io/protfolio/)
+[Email](mailto:bnjanani258@gmail.com) &nbsp;&bull;&nbsp; [LinkedIn](https://linkedin.com/in/janani-b-n-72761537a) &nbsp;&bull;&nbsp; [Medium](https://medium.com/@bnjanani258) &nbsp;&bull;&nbsp; [Twitter](https://x.com/Janani0880) &nbsp;&bull;&nbsp; [Portfolio](https://janani-bn.github.io/protfolio/)
 
 ---
 
