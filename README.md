@@ -7,7 +7,7 @@ Hi there ! **Janani B N** here
 
 ---
 
-### Overview
+### About Me
 
 Second-year B.E. Computer Science student at St. Joseph's College of Engineering, with a focus on full stack development, data structures, and applied AI systems. Interested in building practical software that solves real problems - from intelligent multi-agent systems to in-store navigation engines.
 
