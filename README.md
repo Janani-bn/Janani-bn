@@ -13,7 +13,7 @@ Second-year B.E. Computer Science student at St. Joseph's College of Engineering
 
 - **Full Stack Engineering:** Built end-to-end platforms using Node.js, FastAPI, React 18, PostgreSQL, and Tailwind - with JWT role-based authentication and clean, responsive interfaces.
 - **Applied AI Systems:** Designed MATSYA AI, a rule-based orchestrator for marine intelligence routing to specialized spatial-risk and language-detection agents, with Gemini-powered synthesis.
-- **Algorithms & Competitive Programming:** ICPC AlgoQueen 2026 Finalist. Active in competitive programming with a focus on graph algorithms, dynamic programming, and OOP design.
+- **Algorithms & Competitive Programming:** ICPC AlgoQueen 2026 Finalist. Active in competitive programming with a focus in DSA.
 - **Cloud & Open Source:** Oracle Cloud Infrastructure Certified, Microsoft Azure Fundamentals certified, GSSoC and OSCI 2026 Contributor.
 
 ---
