@@ -94,7 +94,7 @@ B.E, Computer Science &bull; Expected May 2029 &bull; Chennai, Tamil Nadu
 | Domain | Technologies |
 |:---|:---|
 | **Languages** | C++, Java (Beginner), SQL |
-| **CS Fundamentals** | Data Structures & Algorithms, OOP, Competitive Programming |
+| **CS Fundamentals** | Data Structures & Algorithms, OOP, Competitive Programming, Git, Github |
 | **Backend & Web** | Node.js, Express.js, FastAPI, EJS, React 18, Tailwind CSS, JWT |
 | **Databases** | PostgreSQL |
 | **Cloud & DevOps** | AWS (EC2), Azure, Oracle Cloud, Git |
